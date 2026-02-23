@@ -89,11 +89,9 @@ urban-ai-system/
 
 ## 👥 Contributors
 
-- **SELVAM MARILYN** (2201112040)
-- **DHINESH S** (2201212002)
-- **MUTHUKUMARAN A S** (2201112030)
-
-**Supervisor**: Dr. P. Maragathavalli, Department of Information Technology, PTU.
+- **SELVAM MARILYN** 
+- **DHINESH S** 
+- **MUTHUKUMARAN A S** 
 
 ## 📜 License & Academic Context
 
